@@ -1,6 +1,6 @@
 # Design Library - Demo
 
-This project is made to demo [Design Library](https://github.com/RXPServices/designops).
+This project is made to demo [Design Library](https://github.com/Capgemini-DE/designops).
 
 ## Installation
 
